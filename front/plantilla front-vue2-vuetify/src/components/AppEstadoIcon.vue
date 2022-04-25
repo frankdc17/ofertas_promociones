@@ -18,14 +18,14 @@
       </template>
 
       <v-card class="text-center">
-        <v-card-title class=" justify-center text-h4">
-          <span class="primary--text">Inhabilitar Establecimiento</span> 
+        <v-card-title class=" justify-center text-h5 " >
+          <span class="primary--text my-5">Inhabilitar Establecimiento</span> 
         </v-card-title>
 
         <v-card-text class="text-h5">
-          <div class="mb-4">
-            <v-icon  size="100"    
-            color="primary"            >
+          <div  class="mb-4 primary mb-7">
+            <v-icon  size="50"    
+            color="white"            >
             mdi-information
             </v-icon>
           </div>
@@ -81,14 +81,14 @@
       </template>
 
       <v-card class="text-center">
-        <v-card-title class=" justify-center text-h4">
-          <span class="primary--text">Habilitar establecimiento</span> 
+        <v-card-title class=" justify-center text-h5">
+          <span class="primary--text my-5">Habilitar establecimiento</span> 
         </v-card-title>
 
         <v-card-text class="text-h5">
-          <div class="mb-4">
-            <v-icon  size="100"    
-            color="primary"            >
+          <div  class="mb-4 primary mb-7" >
+            <v-icon class=""  size="50"    
+            color="white"            >
             mdi-information
             </v-icon>
           </div>
